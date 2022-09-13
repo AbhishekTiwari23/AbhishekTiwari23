@@ -1,35 +1,36 @@
-<h1 align = "centre" > Hi, I am Abhishek Tiwari 👋</h1>
-<img src =" " alt = "my animated gif" /> 
-
-<br>
-
-<h2> About Me </h2>
-<ul>
-  <li> I am Abhishek Tiwari, a sophomore at the Netaji Subhas University of Technology, currently pursuing my bachelor's degree in Electronics and Communication Engineering with a specialisation in IoT </li>
-  <li> I am a neophile, have a keen interest in the future of tech, and am always eager to learn new and exciting things. </li>
-  <li>  My current focus is machine learning and Kubernetes. Recently I participated in the Google Cloud Ready Facilitator program, through which I got hand on experience with the Cloud platform and Kubernetes.</li>
-  <li> Love to code </li>
-  <li> Love to learn</li>
- </ul>
-
-<p align="center">
-  
-  <a href="https://www.linkedin.com/in/abhishek-tiwari-5ba03422b/">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuc7Gsk8JEWdKnh8W-1FfwCSNNqlV_bxaNm9Pt4caXc1fqTAuj-dLEosvy5V55YIxrmw&usqp=CAU" alt = "my linkedin profile" width = 200 length = 80/>
-  </a>
-  <a href="https://codeforces.com/profile/Abhishek23Jul">
-    <img src="https://assets.codeforces.com/users/kguseva/comments/cf.png" alt = "my codeforces profile " length = 80 width = 200/>
-  </a>
-  <a href="https://leetcode.com/Abhishek_av23/">
-    <img src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC73dC4CFWCg1-Hjge8mJCCN2d9LpN_c1koMEs6G0-AYcoGyb7IuwyCwpNlOkyPHBPcA&usqp=CAU" alt="My Leetcode Profile" length = 80 width = 200/>
-  </a>
-</p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AbhishekTiwari23&show_icons=true&locale=en&layout=compact" alt="AbhishekTiwari23" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AbhishekTiwari23&show_icons=true&locale=en" alt="AbhishekTiwari23" /></p>
 
 
+# 💫 About Me:  [![](https://visitcount.itsvg.in/api?id=AbhishekTiww&label=Profile%20Views&pretty=true)](https://visitcount.itsvg.in)
+---
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=700&color=F76D2C&background=000000&vCenter=true&width=435&lines=I+am+Abhise+Tiwari;I+am+a+Front+end+Developer.;My+passion+is+Compettive+programming.+)](https://git.io/typing-svg)<br>
+-> currently working in react js and svelte js <br>-> Looking for collaboration in Front-end-design.<br><br>  Competitive links : <br>                                                    [    Codeforces   ](https://codeforces.com/profile/AbhishekTiwari23) |
+                                     [  Codechef     ](https://www.codechef.com/users/AvAbhishek)               |                 [    Leetcode    ](https://leetcode.com/aaaaa/)                              <br><br>
 
 
-[![Abhishek's github activity graph](https://activity-graph.herokuapp.com/graph?username=AbhishekTiwari23&bg_color=000000&color=00ff11&line=1dfa00&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+## 🌐 Socials:
+[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/mananbansal2) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/manan-bansal-713523202) 
+
+<a href="https://www.codechef.com/users/manan1806" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="manan1806" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/manan.bansal.1806" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="manan.bansal.1806" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/1806manan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="1806manan" height="30" width="40" /></a>
+
+
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![p5js](https://img.shields.io/badge/p5.js-ED225D?style=for-the-badge&logo=p5.js&logoColor=FFFFFF) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Threejs](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=AbhishekTiwari23&theme=merko&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=AbhishekTiwari23&theme=merko&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AbhishekTiwari23&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=AbhishekTiwari23&theme=juicyfresh&no-frame=true&no-bg=false&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+---
+
+
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=AbhishekTiwari23&bg_color=000000&color=00ff11&line=1dfa00&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+

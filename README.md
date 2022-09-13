@@ -8,7 +8,7 @@
 
 
 ## 🌐 Socials:
-[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/mananbansal2) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/manan-bansal-713523202) 
+[![](https://visitcount.itsvg.in/api?id=abhishek-tiwari-5ba03422b&label=Linkedin&pretty=true)](https://www.linkedin.com/in/abhishek-tiwari-5ba03422b/)
 
 <a href="https://www.codechef.com/users/manan1806" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="manan1806" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/manan.bansal.1806" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="manan.bansal.1806" height="30" width="40" /></a>

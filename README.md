@@ -1,18 +1,20 @@
 
-
-# 💫 About Me:  [![](https://visitcount.itsvg.in/api?id=AbhishekTiww&label=Profile%20Views&pretty=true)](https://visitcount.itsvg.in)
+![Abhishek Tiwari](https://github.com/AbhishekTiwari23/AbhishekTiwari23/blob/b9450af1d378987a2290c8023397ba4d77da60b3/github.png)
+### 💫 Hello, I am Abhishek           <img align = "right"  src = "https://api.visitorbadge.io/api/combined?path=AbhishekTiwari23&label=GitHub&labelColor=%23d9e3f0&countColor=%2337d67a&style=flat-square&labelStyle=upper"  />
 ---
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=700&color=F76D2C&background=000000&vCenter=true&width=435&lines=I+am+Abhise+Tiwari;I+am+a+Front+end+Developer.;My+passion+is+Compettive+programming.+)](https://git.io/typing-svg)<br>
 -> currently working in react js and svelte js <br>-> Looking for collaboration in Front-end-design.<br><br>  Competitive links : <br>                                                    [    Codeforces   ](https://codeforces.com/profile/AbhishekTiwari23) |
-                                     [  Codechef     ](https://www.codechef.com/users/AvAbhishek)               |                 [    Leetcode    ](https://leetcode.com/aaaaa/)                              <br><br>
+                                     [  Codechef     ](https://www.codechef.com/users/AvAbhishek_av23)               |                 [    Leetcode    ](https://leetcode.com/aaaaa/Abhishek_av23)                              <br><br>
 
 
 ## 🌐 Socials:
-[![](https://visitcount.itsvg.in/api?id=abhishek-tiwari-5ba03422b&label=Linkedin&pretty=true)](https://www.linkedin.com/in/abhishek-tiwari-5ba03422b/)
 
-<a href="https://www.codechef.com/users/manan1806" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="manan1806" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/manan.bansal.1806" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="manan.bansal.1806" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/1806manan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="1806manan" height="30" width="40" /></a>
+[![LinkedIn](https://api.visitorbadge.io/api/combined?path=abhishek-tiwari-5ba03422b&label=Linkedin&labelColor=%23d9e3f0&countColor=%23263759&style=flat-square&labelStyle=upper)](https://www.linkedin.com/mynetwork/)
+[![Visitors](https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Flinktr.ee%2Fabhishektiwari23&label=Linktree&labelColor=%23d9e3f0&countColor=%2337d67a&style=flat-square&labelStyle=upper)](https://linktr.ee/abhishektiwari23)
+<br>
+<a href="https://www.codechef.com/users/abhishek_av23" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOky0hCjO0Do-1d0KYEdRuUKGKrbERWywomw&usqp=CAU" alt="Abhishek23Jul" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/Abhishek23Jul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Abhishek23Jul" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/Abhishek_av23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Abhishek_av23" height="30" width="40" /></a>
 
 
 # 💻 Tech Stack:

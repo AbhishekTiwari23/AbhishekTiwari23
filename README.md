@@ -1,6 +1,6 @@
 
 ![Abhishek Tiwari](https://github.com/AbhishekTiwari23/AbhishekTiwari23/blob/b9450af1d378987a2290c8023397ba4d77da60b3/github.png)
-💫 Hello developers, I am Abhishek Tiwari  :wave:       <img align = "right"  src = "https://api.visitorbadge.io/api/combined?path=AbhishekTiwari23&label=GitHub&labelColor=%23d9e3f0&countColor=%2337d67a&style=flat-square&labelStyle=upper"  />
+💫 Hello developers, I am Abhishek Tiwari   <img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" width="30px">      <img align = "right"  src = "https://api.visitorbadge.io/api/combined?path=AbhishekTiwari23&label=GitHub&labelColor=%23d9e3f0&countColor=%2337d67a&style=flat-square&labelStyle=upper"  />
 ---
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Lobster&pause=700&color=F76538&background=D180FF00&center=false&vCenter=false&width=435&lines=I+am+Abhisek+Tiwari.;I+am+a+Front-end+Developer;My+passion+is+Competitive+programming)<br>
 :star: currently working in react js and svelte js <br>

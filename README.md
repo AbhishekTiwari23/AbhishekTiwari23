@@ -14,6 +14,12 @@ Competitive links : <br>
 [  Codechef     ](https://www.codechef.com/users/AvAbhishek_av23)               |                 [    Leetcode    ](https://leetcode.com/aaaaa/Abhishek_av23)                              <br><br>
 
 
+![](https://raw.githubusercontent.com/AbhishekTiwari23/Abhishek_cf/main/output/light_card.svg)
+<br>
+![](https://raw.githubusercontent.com/AbhishekTiwari23/Abhishek_cf/main/output/max_rating.svg)
+![](https://raw.githubusercontent.com/AbhishekTiwari23/Abhishek_cf/main/output/rating.svg)
+
+
 ## Resume: 
 <p align = "center" > <a href="https://github.com/AbhishekTiwari23/resume/blob/main/aBHISHEKrESUME.pdf" target="blank"><img vCenter="true"  Center = "true" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYJmHaCC6I9-QCB6LVf2PauA4Uw85SCMaQUiKNShRyojho69mtUBZRXl61a7LJCEOiqIA&usqp=CAU" alt="Abhishek23Jul" height="100" width="100" /></a>  <p/>
 

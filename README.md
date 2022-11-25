@@ -15,7 +15,7 @@ Competitive links : <br>
 
 
 ![](https://raw.githubusercontent.com/AbhishekTiwari23/Abhishek_cf/main/output/light_card.svg)
-![LeetCode Stats](https://leetcard.jacoblin.cool/Abhishek_av23?theme=unicorn&font=Public%20Sans&ext=heatmap)
+![LeetCode Stats](https://leetcard.jacoblin.cool/abhishek_av23?theme=light&font=Nova%20Square)
 <br>
 ![](https://raw.githubusercontent.com/AbhishekTiwari23/Abhishek_cf/main/output/max_rating.svg)
 ![](https://raw.githubusercontent.com/AbhishekTiwari23/Abhishek_cf/main/output/rating.svg)

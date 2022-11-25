@@ -14,11 +14,8 @@ Competitive links : <br>
 [  Codechef     ](https://www.codechef.com/users/AvAbhishek_av23)               |                 [    Leetcode    ](https://leetcode.com/aaaaa/Abhishek_av23)                              <br><br>
 
 
-![](https://raw.githubusercontent.com/AbhishekTiwari23/Abhishek_cf/main/output/light_card.svg)
-![LeetCode Stats](https://leetcard.jacoblin.cool/abhishek_av23?theme=light&font=Nova%20Square)
+![](https://raw.githubusercontent.com/AbhishekTiwari23/Abhishek_cf/main/output/light_card.svg) ![LeetCode Stats](https://leetcard.jacoblin.cool/abhishek_av23?theme=light&font=Nova%20Square)
 <br>
-![](https://raw.githubusercontent.com/AbhishekTiwari23/Abhishek_cf/main/output/max_rating.svg)
-![](https://raw.githubusercontent.com/AbhishekTiwari23/Abhishek_cf/main/output/rating.svg)
 
 
 ## Resume: 

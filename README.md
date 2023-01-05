@@ -9,13 +9,9 @@
 :star: I am a neophile, have a keen interest in the future of tech, and am always eager to learn new and exciting things. <br>
 :star: I am also keen on learning about open source and other development skills.
 <br><br> 
-Competitive links : <br> 
-[    Codeforces   ](https://codeforces.com/profile/AbhishekTiwari23) |
-[  Codechef     ](https://www.codechef.com/users/AvAbhishek_av23)               |                 [    Leetcode    ](https://leetcode.com/aaaaa/Abhishek_av23)                              <br><br>
 
 
-![](https://raw.githubusercontent.com/AbhishekTiwari23/Abhishek_cf/main/output/light_card.svg) ![LeetCode Stats](https://leetcard.jacoblin.cool/abhishek_av23?theme=light&font=Nova%20Square)
-<br>
+
 
 
 ## Resume: 

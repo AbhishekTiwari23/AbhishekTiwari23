@@ -26,10 +26,6 @@
 
 [![LinkedIn](https://api.visitorbadge.io/api/combined?path=abhishek-tiwari-5ba03422b&label=Linkedin&labelColor=%23d9e3f0&countColor=%23263759&style=flat-square&labelStyle=upper)](https://www.linkedin.com/mynetwork/)
 [![Visitors](https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Flinktr.ee%2Fabhishektiwari23&label=Linktree&labelColor=%23d9e3f0&countColor=%2337d67a&style=flat-square&labelStyle=upper)](https://linktr.ee/abhishektiwari23)
-<br>
-<a href="https://www.codechef.com/users/abhishek_av23" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOky0hCjO0Do-1d0KYEdRuUKGKrbERWywomw&usqp=CAU" alt="Abhishek23Jul" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/Abhishek23Jul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Abhishek23Jul" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/Abhishek_av23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Abhishek_av23" height="30" width="40" /></a>
 
 <br>
 

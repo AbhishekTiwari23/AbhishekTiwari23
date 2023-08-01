@@ -30,7 +30,6 @@
 # 📊 GitHub Stats:
 ![My Stats](https://awesome-github-stats.azurewebsites.net/user-stats/AbhishekTiwari23?cardType=github&theme=github-dark&Text=268EDD&Ring=1BDDA3&Title=8FF670F6)<br/>
 ![GitHub Streak](https://streak-stats.demolab.com?user=AbhishekTiwari23&theme=vue-dark&border_radius=5&date_format=M%20j%5B%2C%20Y%5D&fire=DD6A53&ring=DDA463)<br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishektiwari23&exclude_repo=github-readme-stats)
 
 <br> 
 

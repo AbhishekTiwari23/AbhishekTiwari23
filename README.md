@@ -37,14 +37,5 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=AbhishekTiwari23&theme=juicyfresh&no-frame=true&no-bg=false&margin-w=4)
 
-<br>
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
----
-
-
-![github activity graph](https://activity-graph.herokuapp.com/graph?username=AbhishekTiwari23&bg_color=000000&color=00ff11&line=1dfa00&point=ffffff&area=true&hide_border=true)
 
 

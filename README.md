@@ -4,7 +4,7 @@
 ---
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Lobster&pause=700&color=F76538&background=D180FF00&center=false&vCenter=false&width=435&lines=I+am+Abhisek+Tiwari.;I+am+a+Front-end+Developer;My+passion+is+Competitive+programming)<br>
 :star: currently working in react js and svelte js <br>
-:star: Student at the Netaji Subhas University of Technology :classical_building: Delhi<br>
+:star: Student at the Netaji Subhas University of Technology :classical_building: Delhi, India<br>
 :star: Pursuing my bachelor's degree in Electronics and Communication Engineering with a specialisation in IoT. <br>
 :star: I am a neophile, have a keen interest in the future of tech, and am always eager to learn new and exciting things. <br>
 :star: I am also keen on learning about open source and other development skills.

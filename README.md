@@ -19,8 +19,12 @@
 <br>
 # 📊 GitHub Stats:
 ![My Stats](https://awesome-github-stats.azurewebsites.net/user-stats/AbhishekTiwari23?cardType=github&theme=github-dark&Text=268EDD&Ring=1BDDA3&Title=8FF670F6)<br/>
+
+![stats](https://api.githubtrends.io/user/svg/AbhishekTiwari23/repos?time_range=one_year&theme=dark)
+<br/>
+
 ![GitHub Streak](https://streak-stats.demolab.com?user=AbhishekTiwari23&theme=vue-dark&border_radius=5&date_format=M%20j%5B%2C%20Y%5D&fire=DD6A53&ring=DDA463)<br/>
-<br> 
+<br/> 
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=AbhishekTiwari23&theme=juicyfresh&no-frame=true&no-bg=false&margin-w=4)
